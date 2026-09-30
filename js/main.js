@@ -43,7 +43,7 @@
       (v('qeyd') ? '\nQeyd: ' + v('qeyd') : '')
     document.getElementById('ok').textContent =
       'Sorğunuz hazırdır, WhatsApp açılır. Göndər düyməsini basmağı unutmayın.'
-    window.open('https://wa.me/994500000000?text=' + encodeURIComponent(m), '_blank')
+    window.open('https://wa.me/994505875875?text=' + encodeURIComponent(m), '_blank')
   }
   var nv = document.querySelector('nav')
   function sc() {
